@@ -1,23 +1,23 @@
-# BikeLov <img src="./assets/logo.png" alt="Logo" width="110" align="right">
-<p align="right">
- |  <a href="./README_EN.md">EN</a> | 
-</p>
-
-App móvil para ciclistas, enfocada en fomentar las **rutas grupales** y la interacción entre usuarios. 
-
+<div align="center">
+<img src="./assets/logo.png" alt="Logo" width="400">
+ 
 ---
 
-##  Índice
+[Resumen](#resumen) ✦ [Funcionalidades](#funcionalidades) ✦ [Apartado Técnico](#apartado-técnico) ✦ [Compatibilidad](#compatibilidad) ✦ [Demo](#demo)
 
-- [Resumen](#resumen)
-- [Funcionalidades](#funcionalidades)
-- [Apartado Técnico](#apartado-técnico)
-- [Compatibilidad](#compatibilidad)
-- [Demo](#demo)
+#### App móvil para ciclistas, enfocada en fomentar las rutas grupales y la interacción entre usuarios. 
 
----
+
+</div>
+<br>
+
+> \[!NOTE]
+>
+> - Este readme tienes dos versiones, en español y en ingles.  <a href="./README.md">ES</a> 
+> - Thats readme has two version in spanish and in english.   <a href="./README_EN.md">EN</a> 
 
 ##  Resumen
+
 
 BikeLov combina el mundo **deportivo** con un potente enfoque **social**. Diseñada especialmente para la **realización de rutas grupales en bicicleta**, permite a los usuarios **visualizar en tiempo real** la **posición** y las **pulsaciones** de sus compañeros en el mapa, facilitando la optimización del rendimiento grupal.
 

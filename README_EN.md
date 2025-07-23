@@ -1,21 +1,20 @@
-# BikeLov <img src="./assets/logo.png" alt="Logo" width="110" align="right">
-<p align="right">
- |  <a href="./README.md">ES</a> | 
-</p>
-
-Mobile app for cyclists, focused on promoting **group rides** and user interaction.
-
+<div align="center">
+<img src="./assets/logo.png" alt="Logo" width="400">
+ 
 ---
 
-## Index
+[Summary](#summary) ✦ [Features](#features) ✦ [Technical Details](#technical-details) ✦ [Compatibility](#compatibility) ✦ [Demo](#demo)
 
-- [Summary](#summary)
-- [Features](#features)
-- [Technical Details](#technical-details)
-- [Compatibility](#compatibility)
-- [Demo](#demo)
+#### Mobile app for cyclists, focused on promoting group rides and user interaction.
 
----
+
+</div>
+<br>
+
+> \[!NOTE]
+>
+> - Este readme tienes dos versiones, en español y en ingles.  <a href="./README.md">ES</a> 
+> - Thats readme has two version in spanish and in english.   <a href="./README_EN.md">EN</a> 
 
 ## Summary
 
